@@ -214,3 +214,5 @@ for (x in 2021:2021) {
     assign(paste("driver_standings_", as.character(x), sep=""),
            change_drivers_standings_format(x))
 }
+
+write.csv(constructors_standings_2021, "2021_season/constructors_standings_2021.csv", row.names = TRUE)

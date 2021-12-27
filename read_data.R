@@ -1,6 +1,7 @@
 library(tidyverse)
 
 # Importing data
+my_options <- options(digits.secs = 3)
 
 # Info about circuits
 circuits <- read_csv("data/circuits.csv")
@@ -22,6 +23,10 @@ driver_standings <- read_csv("data/driver_standings.csv")
 qualifying <- read_csv("data/qualifying.csv")
 # Info about lap times (races)
 lap_times <- read_csv("data/lap_times.csv")
+lap_times <- lap_times %>%
+    select(-time)
+lap_times <- lap_times %>% 
+    mutate(time = format(as.POSIXct(Sys.Date()) + lap_times$milliseconds / 1000, "%M:%OS"))
 # Info about pit stops
 pit_stops <- read_csv("data/pit_stops.csv")
 # Info about each race results

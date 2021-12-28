@@ -216,3 +216,4 @@ for (x in 2021:2021) {
 }
 
 write.csv(constructors_standings_2021, "2021_season/constructors_standings_2021.csv", row.names = TRUE)
+write.csv(driver_standings_2021, "2021_season/driver_standings_2021.csv", row.names = TRUE)

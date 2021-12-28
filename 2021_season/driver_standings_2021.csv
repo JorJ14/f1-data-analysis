@@ -1,0 +1,471 @@
+,race,round,position,positionText,code,constructor,points,wins
+1,PreSeason,0,1,1,HAM,Mercedes,0,0
+2,PreSeason,0,2,2,VER,Red Bull,0,0
+3,PreSeason,0,3,3,BOT,Mercedes,0,0
+4,PreSeason,0,4,4,NOR,McLaren,0,0
+5,PreSeason,0,5,5,PER,Red Bull,0,0
+6,PreSeason,0,6,6,LEC,Ferrari,0,0
+7,PreSeason,0,7,7,RIC,McLaren,0,0
+8,PreSeason,0,8,8,SAI,Ferrari,0,0
+9,PreSeason,0,9,9,TSU,AlphaTauri,0,0
+10,PreSeason,0,10,10,STR,Aston Martin,0,0
+11,PreSeason,0,11,11,RAI,Alfa Romeo,0,0
+12,PreSeason,0,12,12,GIO,Alfa Romeo,0,0
+13,PreSeason,0,13,13,OCO,Alpine F1 Team,0,0
+14,PreSeason,0,14,14,RUS,Williams,0,0
+15,PreSeason,0,15,15,VET,Aston Martin,0,0
+16,PreSeason,0,16,16,MSC,Haas F1 Team,0,0
+17,PreSeason,0,17,17,GAS,AlphaTauri,0,0
+18,PreSeason,0,18,18,LAT,Williams,0,0
+19,PreSeason,0,19,19,ALO,Alpine F1 Team,0,0
+20,PreSeason,0,20,20,MAZ,Haas F1 Team,0,0
+21,Bahrain Grand Prix,1,1,1,HAM,Mercedes,25,1
+22,Bahrain Grand Prix,1,2,2,VER,Red Bull,18,0
+23,Bahrain Grand Prix,1,3,3,BOT,Mercedes,16,0
+24,Bahrain Grand Prix,1,4,4,NOR,McLaren,12,0
+25,Bahrain Grand Prix,1,5,5,PER,Red Bull,10,0
+26,Bahrain Grand Prix,1,6,6,LEC,Ferrari,8,0
+27,Bahrain Grand Prix,1,7,7,RIC,McLaren,6,0
+28,Bahrain Grand Prix,1,8,8,SAI,Ferrari,4,0
+29,Bahrain Grand Prix,1,9,9,TSU,AlphaTauri,2,0
+30,Bahrain Grand Prix,1,10,10,STR,Aston Martin,1,0
+31,Bahrain Grand Prix,1,11,11,RAI,Alfa Romeo,0,0
+32,Bahrain Grand Prix,1,12,12,GIO,Alfa Romeo,0,0
+33,Bahrain Grand Prix,1,13,13,OCO,Alpine F1 Team,0,0
+34,Bahrain Grand Prix,1,14,14,RUS,Williams,0,0
+35,Bahrain Grand Prix,1,15,15,VET,Aston Martin,0,0
+36,Bahrain Grand Prix,1,16,16,MSC,Haas F1 Team,0,0
+37,Bahrain Grand Prix,1,17,17,GAS,AlphaTauri,0,0
+38,Bahrain Grand Prix,1,18,18,LAT,Williams,0,0
+39,Bahrain Grand Prix,1,19,19,ALO,Alpine F1 Team,0,0
+40,Bahrain Grand Prix,1,20,20,MAZ,Haas F1 Team,0,0
+41,Emilia Romagna Grand Prix,2,1,1,HAM,Mercedes,44,1
+42,Emilia Romagna Grand Prix,2,2,2,VER,Red Bull,43,1
+43,Emilia Romagna Grand Prix,2,3,3,NOR,McLaren,27,0
+44,Emilia Romagna Grand Prix,2,4,4,LEC,Ferrari,20,0
+45,Emilia Romagna Grand Prix,2,5,5,BOT,Mercedes,16,0
+46,Emilia Romagna Grand Prix,2,6,6,SAI,Ferrari,14,0
+47,Emilia Romagna Grand Prix,2,7,7,RIC,McLaren,14,0
+48,Emilia Romagna Grand Prix,2,8,8,PER,Red Bull,10,0
+49,Emilia Romagna Grand Prix,2,9,9,GAS,AlphaTauri,6,0
+50,Emilia Romagna Grand Prix,2,10,10,STR,Aston Martin,5,0
+51,Emilia Romagna Grand Prix,2,11,11,TSU,AlphaTauri,2,0
+52,Emilia Romagna Grand Prix,2,12,12,OCO,Alpine F1 Team,2,0
+53,Emilia Romagna Grand Prix,2,13,13,ALO,Alpine F1 Team,1,0
+54,Emilia Romagna Grand Prix,2,14,14,RAI,Alfa Romeo,0,0
+55,Emilia Romagna Grand Prix,2,15,15,GIO,Alfa Romeo,0,0
+56,Emilia Romagna Grand Prix,2,16,16,RUS,Williams,0,0
+57,Emilia Romagna Grand Prix,2,17,17,VET,Aston Martin,0,0
+58,Emilia Romagna Grand Prix,2,18,18,MSC,Haas F1 Team,0,0
+59,Emilia Romagna Grand Prix,2,19,19,MAZ,Haas F1 Team,0,0
+60,Emilia Romagna Grand Prix,2,20,20,LAT,Williams,0,0
+61,Portuguese Grand Prix,3,1,1,HAM,Mercedes,69,2
+62,Portuguese Grand Prix,3,2,2,VER,Red Bull,61,1
+63,Portuguese Grand Prix,3,3,3,NOR,McLaren,37,0
+64,Portuguese Grand Prix,3,4,4,BOT,Mercedes,32,0
+65,Portuguese Grand Prix,3,5,5,LEC,Ferrari,28,0
+66,Portuguese Grand Prix,3,6,6,PER,Red Bull,22,0
+67,Portuguese Grand Prix,3,7,7,RIC,McLaren,16,0
+68,Portuguese Grand Prix,3,8,8,SAI,Ferrari,14,0
+69,Portuguese Grand Prix,3,9,9,OCO,Alpine F1 Team,8,0
+70,Portuguese Grand Prix,3,10,10,GAS,AlphaTauri,7,0
+71,Portuguese Grand Prix,3,11,11,STR,Aston Martin,5,0
+72,Portuguese Grand Prix,3,12,12,ALO,Alpine F1 Team,5,0
+73,Portuguese Grand Prix,3,13,13,TSU,AlphaTauri,2,0
+74,Portuguese Grand Prix,3,14,14,RAI,Alfa Romeo,0,0
+75,Portuguese Grand Prix,3,15,15,GIO,Alfa Romeo,0,0
+76,Portuguese Grand Prix,3,16,16,VET,Aston Martin,0,0
+77,Portuguese Grand Prix,3,17,17,RUS,Williams,0,0
+78,Portuguese Grand Prix,3,18,18,MSC,Haas F1 Team,0,0
+79,Portuguese Grand Prix,3,19,19,MAZ,Haas F1 Team,0,0
+80,Portuguese Grand Prix,3,20,20,LAT,Williams,0,0
+81,Spanish Grand Prix,4,1,1,HAM,Mercedes,94,3
+82,Spanish Grand Prix,4,2,2,VER,Red Bull,80,1
+83,Spanish Grand Prix,4,3,3,BOT,Mercedes,47,0
+84,Spanish Grand Prix,4,4,4,NOR,McLaren,41,0
+85,Spanish Grand Prix,4,5,5,LEC,Ferrari,40,0
+86,Spanish Grand Prix,4,6,6,PER,Red Bull,32,0
+87,Spanish Grand Prix,4,7,7,RIC,McLaren,24,0
+88,Spanish Grand Prix,4,8,8,SAI,Ferrari,20,0
+89,Spanish Grand Prix,4,9,9,OCO,Alpine F1 Team,10,0
+90,Spanish Grand Prix,4,10,10,GAS,AlphaTauri,8,0
+91,Spanish Grand Prix,4,11,11,STR,Aston Martin,5,0
+92,Spanish Grand Prix,4,12,12,ALO,Alpine F1 Team,5,0
+93,Spanish Grand Prix,4,13,13,TSU,AlphaTauri,2,0
+94,Spanish Grand Prix,4,14,14,RAI,Alfa Romeo,0,0
+95,Spanish Grand Prix,4,15,15,GIO,Alfa Romeo,0,0
+96,Spanish Grand Prix,4,16,16,VET,Aston Martin,0,0
+97,Spanish Grand Prix,4,17,17,RUS,Williams,0,0
+98,Spanish Grand Prix,4,18,18,MSC,Haas F1 Team,0,0
+99,Spanish Grand Prix,4,19,19,LAT,Williams,0,0
+100,Spanish Grand Prix,4,20,20,MAZ,Haas F1 Team,0,0
+101,Monaco Grand Prix,5,1,1,VER,Red Bull,105,2
+102,Monaco Grand Prix,5,2,2,HAM,Mercedes,101,3
+103,Monaco Grand Prix,5,3,3,NOR,McLaren,56,0
+104,Monaco Grand Prix,5,4,4,BOT,Mercedes,47,0
+105,Monaco Grand Prix,5,5,5,PER,Red Bull,44,0
+106,Monaco Grand Prix,5,6,6,LEC,Ferrari,40,0
+107,Monaco Grand Prix,5,7,7,SAI,Ferrari,38,0
+108,Monaco Grand Prix,5,8,8,RIC,McLaren,24,0
+109,Monaco Grand Prix,5,9,9,GAS,AlphaTauri,16,0
+110,Monaco Grand Prix,5,10,10,OCO,Alpine F1 Team,12,0
+111,Monaco Grand Prix,5,11,11,VET,Aston Martin,10,0
+112,Monaco Grand Prix,5,12,12,STR,Aston Martin,9,0
+113,Monaco Grand Prix,5,13,13,ALO,Alpine F1 Team,5,0
+114,Monaco Grand Prix,5,14,14,TSU,AlphaTauri,2,0
+115,Monaco Grand Prix,5,15,15,GIO,Alfa Romeo,1,0
+116,Monaco Grand Prix,5,16,16,RAI,Alfa Romeo,0,0
+117,Monaco Grand Prix,5,17,17,RUS,Williams,0,0
+118,Monaco Grand Prix,5,18,18,LAT,Williams,0,0
+119,Monaco Grand Prix,5,19,19,MSC,Haas F1 Team,0,0
+120,Monaco Grand Prix,5,20,20,MAZ,Haas F1 Team,0,0
+121,Azerbaijan Grand Prix,6,1,1,VER,Red Bull,105,2
+122,Azerbaijan Grand Prix,6,2,2,HAM,Mercedes,101,3
+123,Azerbaijan Grand Prix,6,3,3,PER,Red Bull,69,1
+124,Azerbaijan Grand Prix,6,4,4,NOR,McLaren,66,0
+125,Azerbaijan Grand Prix,6,5,5,LEC,Ferrari,52,0
+126,Azerbaijan Grand Prix,6,6,6,BOT,Mercedes,47,0
+127,Azerbaijan Grand Prix,6,7,7,SAI,Ferrari,42,0
+128,Azerbaijan Grand Prix,6,8,8,GAS,AlphaTauri,31,0
+129,Azerbaijan Grand Prix,6,9,9,VET,Aston Martin,28,0
+130,Azerbaijan Grand Prix,6,10,10,RIC,McLaren,26,0
+131,Azerbaijan Grand Prix,6,11,11,ALO,Alpine F1 Team,13,0
+132,Azerbaijan Grand Prix,6,12,12,OCO,Alpine F1 Team,12,0
+133,Azerbaijan Grand Prix,6,13,13,STR,Aston Martin,9,0
+134,Azerbaijan Grand Prix,6,14,14,TSU,AlphaTauri,8,0
+135,Azerbaijan Grand Prix,6,15,15,RAI,Alfa Romeo,1,0
+136,Azerbaijan Grand Prix,6,16,16,GIO,Alfa Romeo,1,0
+137,Azerbaijan Grand Prix,6,17,17,MSC,Haas F1 Team,0,0
+138,Azerbaijan Grand Prix,6,18,18,RUS,Williams,0,0
+139,Azerbaijan Grand Prix,6,19,19,MAZ,Haas F1 Team,0,0
+140,Azerbaijan Grand Prix,6,20,20,LAT,Williams,0,0
+141,French Grand Prix,7,1,1,VER,Red Bull,131,3
+142,French Grand Prix,7,2,2,HAM,Mercedes,119,3
+143,French Grand Prix,7,3,3,PER,Red Bull,84,1
+144,French Grand Prix,7,4,4,NOR,McLaren,76,0
+145,French Grand Prix,7,5,5,BOT,Mercedes,59,0
+146,French Grand Prix,7,6,6,LEC,Ferrari,52,0
+147,French Grand Prix,7,7,7,SAI,Ferrari,42,0
+148,French Grand Prix,7,8,8,GAS,AlphaTauri,37,0
+149,French Grand Prix,7,9,9,RIC,McLaren,34,0
+150,French Grand Prix,7,10,10,VET,Aston Martin,30,0
+151,French Grand Prix,7,11,11,ALO,Alpine F1 Team,17,0
+152,French Grand Prix,7,12,12,OCO,Alpine F1 Team,12,0
+153,French Grand Prix,7,13,13,STR,Aston Martin,10,0
+154,French Grand Prix,7,14,14,TSU,AlphaTauri,8,0
+155,French Grand Prix,7,15,15,RAI,Alfa Romeo,1,0
+156,French Grand Prix,7,16,16,GIO,Alfa Romeo,1,0
+157,French Grand Prix,7,17,17,RUS,Williams,0,0
+158,French Grand Prix,7,18,18,MSC,Haas F1 Team,0,0
+159,French Grand Prix,7,19,19,MAZ,Haas F1 Team,0,0
+160,French Grand Prix,7,20,20,LAT,Williams,0,0
+161,Styrian Grand Prix,8,1,1,VER,Red Bull,156,4
+162,Styrian Grand Prix,8,2,2,HAM,Mercedes,138,3
+163,Styrian Grand Prix,8,3,3,PER,Red Bull,96,1
+164,Styrian Grand Prix,8,4,4,NOR,McLaren,86,0
+165,Styrian Grand Prix,8,5,5,BOT,Mercedes,74,0
+166,Styrian Grand Prix,8,6,6,LEC,Ferrari,58,0
+167,Styrian Grand Prix,8,7,7,SAI,Ferrari,50,0
+168,Styrian Grand Prix,8,8,8,GAS,AlphaTauri,37,0
+169,Styrian Grand Prix,8,9,9,RIC,McLaren,34,0
+170,Styrian Grand Prix,8,10,10,VET,Aston Martin,30,0
+171,Styrian Grand Prix,8,11,11,ALO,Alpine F1 Team,19,0
+172,Styrian Grand Prix,8,12,12,STR,Aston Martin,14,0
+173,Styrian Grand Prix,8,13,13,OCO,Alpine F1 Team,12,0
+174,Styrian Grand Prix,8,14,14,TSU,AlphaTauri,9,0
+175,Styrian Grand Prix,8,15,15,RAI,Alfa Romeo,1,0
+176,Styrian Grand Prix,8,16,16,GIO,Alfa Romeo,1,0
+177,Styrian Grand Prix,8,17,17,RUS,Williams,0,0
+178,Styrian Grand Prix,8,18,18,MSC,Haas F1 Team,0,0
+179,Styrian Grand Prix,8,19,19,MAZ,Haas F1 Team,0,0
+180,Styrian Grand Prix,8,20,20,LAT,Williams,0,0
+181,Austrian Grand Prix,9,1,1,VER,Red Bull,182,5
+182,Austrian Grand Prix,9,2,2,HAM,Mercedes,150,3
+183,Austrian Grand Prix,9,3,3,PER,Red Bull,104,1
+184,Austrian Grand Prix,9,4,4,NOR,McLaren,101,0
+185,Austrian Grand Prix,9,5,5,BOT,Mercedes,92,0
+186,Austrian Grand Prix,9,6,6,LEC,Ferrari,62,0
+187,Austrian Grand Prix,9,7,7,SAI,Ferrari,60,0
+188,Austrian Grand Prix,9,8,8,RIC,McLaren,40,0
+189,Austrian Grand Prix,9,9,9,GAS,AlphaTauri,39,0
+190,Austrian Grand Prix,9,10,10,VET,Aston Martin,30,0
+191,Austrian Grand Prix,9,11,11,ALO,Alpine F1 Team,20,0
+192,Austrian Grand Prix,9,12,12,STR,Aston Martin,14,0
+193,Austrian Grand Prix,9,13,13,OCO,Alpine F1 Team,12,0
+194,Austrian Grand Prix,9,14,14,TSU,AlphaTauri,9,0
+195,Austrian Grand Prix,9,15,15,RAI,Alfa Romeo,1,0
+196,Austrian Grand Prix,9,16,16,GIO,Alfa Romeo,1,0
+197,Austrian Grand Prix,9,17,17,RUS,Williams,0,0
+198,Austrian Grand Prix,9,18,18,MSC,Haas F1 Team,0,0
+199,Austrian Grand Prix,9,19,19,MAZ,Haas F1 Team,0,0
+200,Austrian Grand Prix,9,20,20,LAT,Williams,0,0
+201,British Grand Prix,10,1,1,VER,Red Bull,185,5
+202,British Grand Prix,10,2,2,HAM,Mercedes,177,4
+203,British Grand Prix,10,3,3,NOR,McLaren,113,0
+204,British Grand Prix,10,4,4,BOT,Mercedes,108,0
+205,British Grand Prix,10,5,5,PER,Red Bull,104,1
+206,British Grand Prix,10,6,6,LEC,Ferrari,80,0
+207,British Grand Prix,10,7,7,SAI,Ferrari,68,0
+208,British Grand Prix,10,8,8,RIC,McLaren,50,0
+209,British Grand Prix,10,9,9,GAS,AlphaTauri,39,0
+210,British Grand Prix,10,10,10,VET,Aston Martin,30,0
+211,British Grand Prix,10,11,11,ALO,Alpine F1 Team,26,0
+212,British Grand Prix,10,12,12,STR,Aston Martin,18,0
+213,British Grand Prix,10,13,13,OCO,Alpine F1 Team,14,0
+214,British Grand Prix,10,14,14,TSU,AlphaTauri,10,0
+215,British Grand Prix,10,15,15,RAI,Alfa Romeo,1,0
+216,British Grand Prix,10,16,16,GIO,Alfa Romeo,1,0
+217,British Grand Prix,10,17,17,RUS,Williams,0,0
+218,British Grand Prix,10,18,18,MSC,Haas F1 Team,0,0
+219,British Grand Prix,10,19,19,LAT,Williams,0,0
+220,British Grand Prix,10,20,20,MAZ,Haas F1 Team,0,0
+221,Hungarian Grand Prix,11,1,1,HAM,Mercedes,195,4
+222,Hungarian Grand Prix,11,2,2,VER,Red Bull,187,5
+223,Hungarian Grand Prix,11,3,3,NOR,McLaren,113,0
+224,Hungarian Grand Prix,11,4,4,BOT,Mercedes,108,0
+225,Hungarian Grand Prix,11,5,5,PER,Red Bull,104,1
+226,Hungarian Grand Prix,11,6,6,SAI,Ferrari,83,0
+227,Hungarian Grand Prix,11,7,7,LEC,Ferrari,80,0
+228,Hungarian Grand Prix,11,8,8,GAS,AlphaTauri,50,0
+229,Hungarian Grand Prix,11,9,9,RIC,McLaren,50,0
+230,Hungarian Grand Prix,11,10,10,OCO,Alpine F1 Team,39,1
+231,Hungarian Grand Prix,11,11,11,ALO,Alpine F1 Team,38,0
+232,Hungarian Grand Prix,11,12,12,VET,Aston Martin,30,0
+233,Hungarian Grand Prix,11,13,13,TSU,AlphaTauri,18,0
+234,Hungarian Grand Prix,11,14,14,STR,Aston Martin,18,0
+235,Hungarian Grand Prix,11,15,15,LAT,Williams,6,0
+236,Hungarian Grand Prix,11,16,16,RUS,Williams,4,0
+237,Hungarian Grand Prix,11,17,17,RAI,Alfa Romeo,2,0
+238,Hungarian Grand Prix,11,18,18,GIO,Alfa Romeo,1,0
+239,Hungarian Grand Prix,11,19,19,MSC,Haas F1 Team,0,0
+240,Hungarian Grand Prix,11,20,20,MAZ,Haas F1 Team,0,0
+241,Belgian Grand Prix,12,1,1,HAM,Mercedes,202.5,4
+242,Belgian Grand Prix,12,2,2,VER,Red Bull,199.5,6
+243,Belgian Grand Prix,12,3,3,NOR,McLaren,113,0
+244,Belgian Grand Prix,12,4,4,BOT,Mercedes,108,0
+245,Belgian Grand Prix,12,5,5,PER,Red Bull,104,1
+246,Belgian Grand Prix,12,6,6,SAI,Ferrari,83.5,0
+247,Belgian Grand Prix,12,7,7,LEC,Ferrari,82,0
+248,Belgian Grand Prix,12,8,8,RIC,McLaren,56,0
+249,Belgian Grand Prix,12,9,9,GAS,AlphaTauri,54,0
+250,Belgian Grand Prix,12,10,10,OCO,Alpine F1 Team,42,1
+251,Belgian Grand Prix,12,11,11,ALO,Alpine F1 Team,38,0
+252,Belgian Grand Prix,12,12,12,VET,Aston Martin,35,0
+253,Belgian Grand Prix,12,13,13,TSU,AlphaTauri,18,0
+254,Belgian Grand Prix,12,14,14,STR,Aston Martin,18,0
+255,Belgian Grand Prix,12,15,15,RUS,Williams,13,0
+256,Belgian Grand Prix,12,16,16,LAT,Williams,7,0
+257,Belgian Grand Prix,12,17,17,RAI,Alfa Romeo,2,0
+258,Belgian Grand Prix,12,18,18,GIO,Alfa Romeo,1,0
+259,Belgian Grand Prix,12,19,19,MSC,Haas F1 Team,0,0
+260,Belgian Grand Prix,12,20,20,MAZ,Haas F1 Team,0,0
+261,Dutch Grand Prix,13,1,1,VER,Red Bull,224.5,7
+262,Dutch Grand Prix,13,2,2,HAM,Mercedes,221.5,4
+263,Dutch Grand Prix,13,3,3,BOT,Mercedes,123,0
+264,Dutch Grand Prix,13,4,4,NOR,McLaren,114,0
+265,Dutch Grand Prix,13,5,5,PER,Red Bull,108,1
+266,Dutch Grand Prix,13,6,6,LEC,Ferrari,92,0
+267,Dutch Grand Prix,13,7,7,SAI,Ferrari,89.5,0
+268,Dutch Grand Prix,13,8,8,GAS,AlphaTauri,66,0
+269,Dutch Grand Prix,13,9,9,RIC,McLaren,56,0
+270,Dutch Grand Prix,13,10,10,ALO,Alpine F1 Team,46,0
+271,Dutch Grand Prix,13,11,11,OCO,Alpine F1 Team,44,1
+272,Dutch Grand Prix,13,12,12,VET,Aston Martin,35,0
+273,Dutch Grand Prix,13,13,13,TSU,AlphaTauri,18,0
+274,Dutch Grand Prix,13,14,14,STR,Aston Martin,18,0
+275,Dutch Grand Prix,13,15,15,RUS,Williams,13,0
+276,Dutch Grand Prix,13,16,16,LAT,Williams,7,0
+277,Dutch Grand Prix,13,17,17,RAI,Alfa Romeo,2,0
+278,Dutch Grand Prix,13,18,18,GIO,Alfa Romeo,1,0
+279,Dutch Grand Prix,13,19,19,MSC,Haas F1 Team,0,0
+280,Dutch Grand Prix,13,20,20,MAZ,Haas F1 Team,0,0
+281,Dutch Grand Prix,13,21,21,KUB,Alfa Romeo,0,0
+282,Italian Grand Prix,14,1,1,VER,Red Bull,226.5,7
+283,Italian Grand Prix,14,2,2,HAM,Mercedes,221.5,4
+284,Italian Grand Prix,14,3,3,BOT,Mercedes,141,0
+285,Italian Grand Prix,14,4,4,NOR,McLaren,132,0
+286,Italian Grand Prix,14,5,5,PER,Red Bull,118,1
+287,Italian Grand Prix,14,6,6,LEC,Ferrari,104,0
+288,Italian Grand Prix,14,7,7,SAI,Ferrari,97.5,0
+289,Italian Grand Prix,14,8,8,RIC,McLaren,83,1
+290,Italian Grand Prix,14,9,9,GAS,AlphaTauri,66,0
+291,Italian Grand Prix,14,10,10,ALO,Alpine F1 Team,50,0
+292,Italian Grand Prix,14,11,11,OCO,Alpine F1 Team,45,1
+293,Italian Grand Prix,14,12,12,VET,Aston Martin,35,0
+294,Italian Grand Prix,14,13,13,STR,Aston Martin,24,0
+295,Italian Grand Prix,14,14,14,TSU,AlphaTauri,18,0
+296,Italian Grand Prix,14,15,15,RUS,Williams,15,0
+297,Italian Grand Prix,14,16,16,LAT,Williams,7,0
+298,Italian Grand Prix,14,17,17,RAI,Alfa Romeo,2,0
+299,Italian Grand Prix,14,18,18,GIO,Alfa Romeo,1,0
+300,Italian Grand Prix,14,19,19,MSC,Haas F1 Team,0,0
+301,Italian Grand Prix,14,20,20,KUB,Alfa Romeo,0,0
+302,Italian Grand Prix,14,21,21,MAZ,Haas F1 Team,0,0
+303,Russian Grand Prix,15,1,1,HAM,Mercedes,246.5,5
+304,Russian Grand Prix,15,2,2,VER,Red Bull,244.5,7
+305,Russian Grand Prix,15,3,3,BOT,Mercedes,151,0
+306,Russian Grand Prix,15,4,4,NOR,McLaren,139,0
+307,Russian Grand Prix,15,5,5,PER,Red Bull,120,1
+308,Russian Grand Prix,15,6,6,SAI,Ferrari,112.5,0
+309,Russian Grand Prix,15,7,7,LEC,Ferrari,104,0
+310,Russian Grand Prix,15,8,8,RIC,McLaren,95,1
+311,Russian Grand Prix,15,9,9,GAS,AlphaTauri,66,0
+312,Russian Grand Prix,15,10,10,ALO,Alpine F1 Team,58,0
+313,Russian Grand Prix,15,11,11,OCO,Alpine F1 Team,45,1
+314,Russian Grand Prix,15,12,12,VET,Aston Martin,35,0
+315,Russian Grand Prix,15,13,13,STR,Aston Martin,24,0
+316,Russian Grand Prix,15,14,14,TSU,AlphaTauri,18,0
+317,Russian Grand Prix,15,15,15,RUS,Williams,16,0
+318,Russian Grand Prix,15,16,16,LAT,Williams,7,0
+319,Russian Grand Prix,15,17,17,RAI,Alfa Romeo,6,0
+320,Russian Grand Prix,15,18,18,GIO,Alfa Romeo,1,0
+321,Russian Grand Prix,15,19,19,MSC,Haas F1 Team,0,0
+322,Russian Grand Prix,15,20,20,KUB,Alfa Romeo,0,0
+323,Russian Grand Prix,15,21,21,MAZ,Haas F1 Team,0,0
+324,Turkish Grand Prix,16,1,1,VER,Red Bull,262.5,7
+325,Turkish Grand Prix,16,2,2,HAM,Mercedes,256.5,5
+326,Turkish Grand Prix,16,3,3,BOT,Mercedes,177,1
+327,Turkish Grand Prix,16,4,4,NOR,McLaren,145,0
+328,Turkish Grand Prix,16,5,5,PER,Red Bull,135,1
+329,Turkish Grand Prix,16,6,6,SAI,Ferrari,116.5,0
+330,Turkish Grand Prix,16,7,7,LEC,Ferrari,116,0
+331,Turkish Grand Prix,16,8,8,RIC,McLaren,95,1
+332,Turkish Grand Prix,16,9,9,GAS,AlphaTauri,74,0
+333,Turkish Grand Prix,16,10,10,ALO,Alpine F1 Team,58,0
+334,Turkish Grand Prix,16,11,11,OCO,Alpine F1 Team,46,1
+335,Turkish Grand Prix,16,12,12,VET,Aston Martin,35,0
+336,Turkish Grand Prix,16,13,13,STR,Aston Martin,26,0
+337,Turkish Grand Prix,16,14,14,TSU,AlphaTauri,18,0
+338,Turkish Grand Prix,16,15,15,RUS,Williams,16,0
+339,Turkish Grand Prix,16,16,16,LAT,Williams,7,0
+340,Turkish Grand Prix,16,17,17,RAI,Alfa Romeo,6,0
+341,Turkish Grand Prix,16,18,18,GIO,Alfa Romeo,1,0
+342,Turkish Grand Prix,16,19,19,MSC,Haas F1 Team,0,0
+343,Turkish Grand Prix,16,20,20,KUB,Alfa Romeo,0,0
+344,Turkish Grand Prix,16,21,21,MAZ,Haas F1 Team,0,0
+345,United States Grand Prix,17,1,1,VER,Red Bull,287.5,8
+346,United States Grand Prix,17,2,2,HAM,Mercedes,275.5,5
+347,United States Grand Prix,17,3,3,BOT,Mercedes,185,1
+348,United States Grand Prix,17,4,4,PER,Red Bull,150,1
+349,United States Grand Prix,17,5,5,NOR,McLaren,149,0
+350,United States Grand Prix,17,6,6,LEC,Ferrari,128,0
+351,United States Grand Prix,17,7,7,SAI,Ferrari,122.5,0
+352,United States Grand Prix,17,8,8,RIC,McLaren,105,1
+353,United States Grand Prix,17,9,9,GAS,AlphaTauri,74,0
+354,United States Grand Prix,17,10,10,ALO,Alpine F1 Team,58,0
+355,United States Grand Prix,17,11,11,OCO,Alpine F1 Team,46,1
+356,United States Grand Prix,17,12,12,VET,Aston Martin,36,0
+357,United States Grand Prix,17,13,13,STR,Aston Martin,26,0
+358,United States Grand Prix,17,14,14,TSU,AlphaTauri,20,0
+359,United States Grand Prix,17,15,15,RUS,Williams,16,0
+360,United States Grand Prix,17,16,16,LAT,Williams,7,0
+361,United States Grand Prix,17,17,17,RAI,Alfa Romeo,6,0
+362,United States Grand Prix,17,18,18,GIO,Alfa Romeo,1,0
+363,United States Grand Prix,17,19,19,MSC,Haas F1 Team,0,0
+364,United States Grand Prix,17,20,20,KUB,Alfa Romeo,0,0
+365,United States Grand Prix,17,21,21,MAZ,Haas F1 Team,0,0
+366,Mexico City Grand Prix,18,1,1,VER,Red Bull,312.5,9
+367,Mexico City Grand Prix,18,2,2,HAM,Mercedes,293.5,5
+368,Mexico City Grand Prix,18,3,3,BOT,Mercedes,185,1
+369,Mexico City Grand Prix,18,4,4,PER,Red Bull,165,1
+370,Mexico City Grand Prix,18,5,5,NOR,McLaren,150,0
+371,Mexico City Grand Prix,18,6,6,LEC,Ferrari,138,0
+372,Mexico City Grand Prix,18,7,7,SAI,Ferrari,130.5,0
+373,Mexico City Grand Prix,18,8,8,RIC,McLaren,105,1
+374,Mexico City Grand Prix,18,9,9,GAS,AlphaTauri,86,0
+375,Mexico City Grand Prix,18,10,10,ALO,Alpine F1 Team,60,0
+376,Mexico City Grand Prix,18,11,11,OCO,Alpine F1 Team,46,1
+377,Mexico City Grand Prix,18,12,12,VET,Aston Martin,42,0
+378,Mexico City Grand Prix,18,13,13,STR,Aston Martin,26,0
+379,Mexico City Grand Prix,18,14,14,TSU,AlphaTauri,20,0
+380,Mexico City Grand Prix,18,15,15,RUS,Williams,16,0
+381,Mexico City Grand Prix,18,16,16,RAI,Alfa Romeo,10,0
+382,Mexico City Grand Prix,18,17,17,LAT,Williams,7,0
+383,Mexico City Grand Prix,18,18,18,GIO,Alfa Romeo,1,0
+384,Mexico City Grand Prix,18,19,19,MSC,Haas F1 Team,0,0
+385,Mexico City Grand Prix,18,20,20,KUB,Alfa Romeo,0,0
+386,Mexico City Grand Prix,18,21,21,MAZ,Haas F1 Team,0,0
+387,São Paulo Grand Prix,19,1,1,VER,Red Bull,332.5,9
+388,São Paulo Grand Prix,19,2,2,HAM,Mercedes,318.5,6
+389,São Paulo Grand Prix,19,3,3,BOT,Mercedes,203,1
+390,São Paulo Grand Prix,19,4,4,PER,Red Bull,178,1
+391,São Paulo Grand Prix,19,5,5,NOR,McLaren,151,0
+392,São Paulo Grand Prix,19,6,6,LEC,Ferrari,148,0
+393,São Paulo Grand Prix,19,7,7,SAI,Ferrari,139.5,0
+394,São Paulo Grand Prix,19,8,8,RIC,McLaren,105,1
+395,São Paulo Grand Prix,19,9,9,GAS,AlphaTauri,92,0
+396,São Paulo Grand Prix,19,10,10,ALO,Alpine F1 Team,62,0
+397,São Paulo Grand Prix,19,11,11,OCO,Alpine F1 Team,50,1
+398,São Paulo Grand Prix,19,12,12,VET,Aston Martin,42,0
+399,São Paulo Grand Prix,19,13,13,STR,Aston Martin,26,0
+400,São Paulo Grand Prix,19,14,14,TSU,AlphaTauri,20,0
+401,São Paulo Grand Prix,19,15,15,RUS,Williams,16,0
+402,São Paulo Grand Prix,19,16,16,RAI,Alfa Romeo,10,0
+403,São Paulo Grand Prix,19,17,17,LAT,Williams,7,0
+404,São Paulo Grand Prix,19,18,18,GIO,Alfa Romeo,1,0
+405,São Paulo Grand Prix,19,19,19,MSC,Haas F1 Team,0,0
+406,São Paulo Grand Prix,19,20,20,KUB,Alfa Romeo,0,0
+407,São Paulo Grand Prix,19,21,21,MAZ,Haas F1 Team,0,0
+408,Qatar Grand Prix,20,1,1,VER,Red Bull,351.5,9
+409,Qatar Grand Prix,20,2,2,HAM,Mercedes,343.5,7
+410,Qatar Grand Prix,20,3,3,BOT,Mercedes,203,1
+411,Qatar Grand Prix,20,4,4,PER,Red Bull,190,1
+412,Qatar Grand Prix,20,5,5,NOR,McLaren,153,0
+413,Qatar Grand Prix,20,6,6,LEC,Ferrari,152,0
+414,Qatar Grand Prix,20,7,7,SAI,Ferrari,145.5,0
+415,Qatar Grand Prix,20,8,8,RIC,McLaren,105,1
+416,Qatar Grand Prix,20,9,9,GAS,AlphaTauri,92,0
+417,Qatar Grand Prix,20,10,10,ALO,Alpine F1 Team,77,0
+418,Qatar Grand Prix,20,11,11,OCO,Alpine F1 Team,60,1
+419,Qatar Grand Prix,20,12,12,VET,Aston Martin,43,0
+420,Qatar Grand Prix,20,13,13,STR,Aston Martin,34,0
+421,Qatar Grand Prix,20,14,14,TSU,AlphaTauri,20,0
+422,Qatar Grand Prix,20,15,15,RUS,Williams,16,0
+423,Qatar Grand Prix,20,16,16,RAI,Alfa Romeo,10,0
+424,Qatar Grand Prix,20,17,17,LAT,Williams,7,0
+425,Qatar Grand Prix,20,18,18,GIO,Alfa Romeo,1,0
+426,Qatar Grand Prix,20,19,19,MSC,Haas F1 Team,0,0
+427,Qatar Grand Prix,20,20,20,KUB,Alfa Romeo,0,0
+428,Qatar Grand Prix,20,21,21,MAZ,Haas F1 Team,0,0
+429,Saudi Arabian Grand Prix,21,1,1,VER,Red Bull,369.5,9
+430,Saudi Arabian Grand Prix,21,2,2,HAM,Mercedes,369.5,8
+431,Saudi Arabian Grand Prix,21,3,3,BOT,Mercedes,218,1
+432,Saudi Arabian Grand Prix,21,4,4,PER,Red Bull,190,1
+433,Saudi Arabian Grand Prix,21,5,5,LEC,Ferrari,158,0
+434,Saudi Arabian Grand Prix,21,6,6,NOR,McLaren,154,0
+435,Saudi Arabian Grand Prix,21,7,7,SAI,Ferrari,149.5,0
+436,Saudi Arabian Grand Prix,21,8,8,RIC,McLaren,115,1
+437,Saudi Arabian Grand Prix,21,9,9,GAS,AlphaTauri,100,0
+438,Saudi Arabian Grand Prix,21,10,10,ALO,Alpine F1 Team,77,0
+439,Saudi Arabian Grand Prix,21,11,11,OCO,Alpine F1 Team,72,1
+440,Saudi Arabian Grand Prix,21,12,12,VET,Aston Martin,43,0
+441,Saudi Arabian Grand Prix,21,13,13,STR,Aston Martin,34,0
+442,Saudi Arabian Grand Prix,21,14,14,TSU,AlphaTauri,20,0
+443,Saudi Arabian Grand Prix,21,15,15,RUS,Williams,16,0
+444,Saudi Arabian Grand Prix,21,16,16,RAI,Alfa Romeo,10,0
+445,Saudi Arabian Grand Prix,21,17,17,LAT,Williams,7,0
+446,Saudi Arabian Grand Prix,21,18,18,GIO,Alfa Romeo,3,0
+447,Saudi Arabian Grand Prix,21,19,19,MSC,Haas F1 Team,0,0
+448,Saudi Arabian Grand Prix,21,20,20,KUB,Alfa Romeo,0,0
+449,Saudi Arabian Grand Prix,21,21,21,MAZ,Haas F1 Team,0,0
+450,Abu Dhabi Grand Prix,22,1,1,VER,Red Bull,395.5,10
+451,Abu Dhabi Grand Prix,22,2,2,HAM,Mercedes,387.5,8
+452,Abu Dhabi Grand Prix,22,3,3,BOT,Mercedes,226,1
+453,Abu Dhabi Grand Prix,22,4,4,PER,Red Bull,190,1
+454,Abu Dhabi Grand Prix,22,5,5,SAI,Ferrari,164.5,0
+455,Abu Dhabi Grand Prix,22,6,6,NOR,McLaren,160,0
+456,Abu Dhabi Grand Prix,22,7,7,LEC,Ferrari,159,0
+457,Abu Dhabi Grand Prix,22,8,8,RIC,McLaren,115,1
+458,Abu Dhabi Grand Prix,22,9,9,GAS,AlphaTauri,110,0
+459,Abu Dhabi Grand Prix,22,10,10,ALO,Alpine F1 Team,81,0
+460,Abu Dhabi Grand Prix,22,11,11,OCO,Alpine F1 Team,74,1
+461,Abu Dhabi Grand Prix,22,12,12,VET,Aston Martin,43,0
+462,Abu Dhabi Grand Prix,22,13,13,STR,Aston Martin,34,0
+463,Abu Dhabi Grand Prix,22,14,14,TSU,AlphaTauri,32,0
+464,Abu Dhabi Grand Prix,22,15,15,RUS,Williams,16,0
+465,Abu Dhabi Grand Prix,22,16,16,RAI,Alfa Romeo,10,0
+466,Abu Dhabi Grand Prix,22,17,17,LAT,Williams,7,0
+467,Abu Dhabi Grand Prix,22,18,18,GIO,Alfa Romeo,3,0
+468,Abu Dhabi Grand Prix,22,19,19,MSC,Haas F1 Team,0,0
+469,Abu Dhabi Grand Prix,22,20,20,KUB,Alfa Romeo,0,0
+470,Abu Dhabi Grand Prix,22,21,21,MAZ,Haas F1 Team,0,0

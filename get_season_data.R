@@ -178,6 +178,14 @@ change_drivers_standings_format <- function(season_year) {
     aux %>% arrange(round, position)
 }
 
+get_race_winners <- function(season_year) {
+    aux <- get(paste("results_", as.character(season_year), sep="")) %>% 
+        select(race, round, code, constructor, position) %>% 
+        filter(position == 1) %>% 
+        rename(winning = position) %>% 
+        arrange(round)
+}
+
 for (x in 2021:2021) {
     assign(paste("races_", as.character(x), sep=""), get_season_races(x))
     assign(paste("circuits_", as.character(x), sep=""), get_season_circuits(x))
@@ -213,7 +221,12 @@ for (x in 2021:2021) {
            change_constructors_standings_format(x))
     assign(paste("driver_standings_", as.character(x), sep=""),
            change_drivers_standings_format(x))
+    assign(paste("race_winners_", as.character(x), sep=""),
+           get_race_winners(x))
 }
 
 write.csv(constructors_standings_2021, "2021_season/constructors_standings_2021.csv", row.names = TRUE)
 write.csv(driver_standings_2021, "2021_season/driver_standings_2021.csv", row.names = TRUE)
+write.csv(race_winners_2021, "2021_season/race_winners_2021.csv", row.names = TRUE)
+
+driver_standings_2021 <- read_csv("2021_season/driver_standings_2021.csv")
